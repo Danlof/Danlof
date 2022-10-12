@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danlof
 - 👀 I’m interested in data science 
-- 🌱 I’m currently learning Data visulization
+- 🌱 I’m currently learning Data visualization
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
