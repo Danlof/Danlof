@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danlof
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in machine learning 
+- 🌱 I’m currently learning web scraping 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
