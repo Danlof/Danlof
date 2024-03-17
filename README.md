@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danlof
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning web scraping 
+- 🌱 I’m currently learning About motion prediction for autonomous vehicles 
 - 📫 How to reach me mdanlof@gmail.com
 - check out my blog https://medium.com/@danlof
 
