@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @Danlof
-- 👀 I’m a Machine learning Engineer.
-- 🌱 I’m currently learning distributed machine learning with spark.
-- 📫 How to reach me mdanlof@gmail.com
-- check out my blog https://medium.com/@danlof
-- Some of the projects I have done include Recommender systems,Azure,AWS deployment,Medical insurance premium pricing,LLMs.
-- Skills gains include , model deployment,monitoring, modelling, evaluating, inferencing, management of teams etc.
-<!---
-Danlof/Danlof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Danlof!
+
+👀 I’m a Machine Learning Engineer with a passion for creating and deploying scalable ML solutions.
+
+🌱 Currently learning: Distributed Machine Learning with Spark.
+
+🚀 **Projects**: I’ve worked on recommender systems, medical insurance premium pricing, LLMs, and deploying models on Azure and AWS.
+
+🛠️ **Skills**: Model deployment, monitoring, inference, evaluation, team management, and more.
+
+📫 Reach me at: mdanlof@gmail.com  
+📝 Blog: [Medium - @danlof](https://medium.com/@danlof)
